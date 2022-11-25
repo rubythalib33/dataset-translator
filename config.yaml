@@ -1,0 +1,4 @@
+file-url: https://pl-flash-data.s3.amazonaws.com/wmt_en_ro.zip
+source-language: en
+target-language: id
+translation-api: https://translate.googleapis.com/translate_a/single?client=gtx&sl=
