@@ -24,4 +24,8 @@ def translate(text:str, translate_api:str, source_language:str, target_language:
     x = requests.get(url)
 
     return x.json()[0][0][0]
+
+
+def translate_file(file_path:str):
+    raise NotImplementedError
     
